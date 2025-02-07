@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 83c8d37d500664cd589dc84f2feadcf3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 149309
+  packageName: 'Creator Kit: RPG'
+  packageVersion: 1.5.1
+  assetPath: Assets/Creator Kit - RPG/Scripts/Gameplay/CharacterController2D.cs
+  uploadId: 541277

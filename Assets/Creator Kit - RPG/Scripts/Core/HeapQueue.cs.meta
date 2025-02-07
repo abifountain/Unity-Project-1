@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f5b75bbf217f7490f9927130f30b446c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 149309
+  packageName: 'Creator Kit: RPG'
+  packageVersion: 1.5.1
+  assetPath: Assets/Creator Kit - RPG/Scripts/Core/HeapQueue.cs
+  uploadId: 541277

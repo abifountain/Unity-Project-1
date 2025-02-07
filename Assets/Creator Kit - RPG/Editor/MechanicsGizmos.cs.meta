@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 0ffe9c4515924408da234c3d5401495b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 149309
+  packageName: 'Creator Kit: RPG'
+  packageVersion: 1.5.1
+  assetPath: Assets/Creator Kit - RPG/Editor/MechanicsGizmos.cs
+  uploadId: 541277

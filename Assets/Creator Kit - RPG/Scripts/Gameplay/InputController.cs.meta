@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 1a6ce09d4840c401995632acfaf7593f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 149309
+  packageName: 'Creator Kit: RPG'
+  packageVersion: 1.5.1
+  assetPath: Assets/Creator Kit - RPG/Scripts/Gameplay/InputController.cs
+  uploadId: 541277

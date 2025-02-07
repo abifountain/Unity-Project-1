@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b224965e0f4d3ef4a8ab4ab136c6885e
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 149309
+  packageName: 'Creator Kit: RPG'
+  packageVersion: 1.5.1
+  assetPath: Assets/CreatorKitRPG_Third-PartyNotice.txt
+  uploadId: 541277

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3978bface3e374a91b3f9ff70d5eabe8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 149309
+  packageName: 'Creator Kit: RPG'
+  packageVersion: 1.5.1
+  assetPath: Assets/Creator Kit - RPG/Art/Animators/Character.controller
+  uploadId: 541277

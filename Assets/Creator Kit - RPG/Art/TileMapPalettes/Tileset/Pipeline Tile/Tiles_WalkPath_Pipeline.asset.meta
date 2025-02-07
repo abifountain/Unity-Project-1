@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4e1376bd0d1e5c443b5f117344b9e89b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 149309
+  packageName: 'Creator Kit: RPG'
+  packageVersion: 1.5.1
+  assetPath: Assets/Creator Kit - RPG/Art/TileMapPalettes/Tileset/Pipeline Tile/Tiles_WalkPath_Pipeline.asset
+  uploadId: 541277

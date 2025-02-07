@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: d6a6bf3ff12fd4844afaa78b7b2b8b15
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 149309
+  packageName: 'Creator Kit: RPG'
+  packageVersion: 1.5.1
+  assetPath: Assets/Creator Kit - RPG/Scripts/Gameplay/NPCController.cs
+  uploadId: 541277

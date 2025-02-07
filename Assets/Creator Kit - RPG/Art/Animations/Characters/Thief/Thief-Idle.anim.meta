@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c559fce4f820d4c6887c295d0fac2935
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 149309
+  packageName: 'Creator Kit: RPG'
+  packageVersion: 1.5.1
+  assetPath: Assets/Creator Kit - RPG/Art/Animations/Characters/Thief/Thief-Idle.anim
+  uploadId: 541277

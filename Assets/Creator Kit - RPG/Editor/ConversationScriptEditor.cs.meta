@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 2ea5b76a433ec47b59e4722ec77ff43d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 149309
+  packageName: 'Creator Kit: RPG'
+  packageVersion: 1.5.1
+  assetPath: Assets/Creator Kit - RPG/Editor/ConversationScriptEditor.cs
+  uploadId: 541277

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 41070a4dd03d64a62aae32fa2dce737c
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 149309
+  packageName: 'Creator Kit: RPG'
+  packageVersion: 1.5.1
+  assetPath: Assets/Creator Kit - RPG/Shaders/Cutscene.shader
+  uploadId: 541277

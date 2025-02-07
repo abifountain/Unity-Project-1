@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e4fb0c55f2b194856a9de7662176f5cc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 149309
+  packageName: 'Creator Kit: RPG'
+  packageVersion: 1.5.1
+  assetPath: Assets/Creator Kit - RPG/Cutscene/Runtime/Cutscene.cs
+  uploadId: 541277

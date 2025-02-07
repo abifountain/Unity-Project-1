@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 81816288a86af46c598e1fa3b10e24a4
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 149309
+  packageName: 'Creator Kit: RPG'
+  packageVersion: 1.5.1
+  assetPath: Assets/Creator Kit - RPG/Prefabs/MessageBar.prefab
+  uploadId: 541277

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 6894e3d31046c4f5fa9ec192d6e47e80
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 149309
+  packageName: 'Creator Kit: RPG'
+  packageVersion: 1.5.1
+  assetPath: Assets/Creator Kit - RPG/Editor/ConversationPieceDrawer.cs
+  uploadId: 541277

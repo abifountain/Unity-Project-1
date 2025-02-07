@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b5b1f64ef65a74c7cbc8d41dd19bf5f9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 149309
+  packageName: 'Creator Kit: RPG'
+  packageVersion: 1.5.1
+  assetPath: Assets/Creator Kit - RPG/Scripts/Gameplay/FadingSprite.cs
+  uploadId: 541277

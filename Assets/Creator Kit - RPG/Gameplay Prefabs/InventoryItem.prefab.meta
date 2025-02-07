@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2a657642475934620a07fd2e829b35d7
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 149309
+  packageName: 'Creator Kit: RPG'
+  packageVersion: 1.5.1
+  assetPath: Assets/Creator Kit - RPG/Gameplay Prefabs/InventoryItem.prefab
+  uploadId: 541277

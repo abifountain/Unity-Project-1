@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7bfb43d7068f94aff8f20e9a7916bee6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 22100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 149309
+  packageName: 'Creator Kit: RPG'
+  packageVersion: 1.5.1
+  assetPath: Assets/Creator Kit - RPG/Art/Animators/Thief-Override.overrideController
+  uploadId: 541277
